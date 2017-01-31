@@ -1,0 +1,6 @@
+c:\users\kye\documents\visual studio 2015\Projects\WeightLogging\WeightLogging\bin\Debug\WeightLogging.exe.config
+c:\users\kye\documents\visual studio 2015\Projects\WeightLogging\WeightLogging\bin\Debug\WeightLogging.exe
+c:\users\kye\documents\visual studio 2015\Projects\WeightLogging\WeightLogging\bin\Debug\WeightLogging.pdb
+c:\users\kye\documents\visual studio 2015\Projects\WeightLogging\WeightLogging\obj\Debug\WeightLogging.csprojResolveAssemblyReference.cache
+c:\users\kye\documents\visual studio 2015\Projects\WeightLogging\WeightLogging\obj\Debug\WeightLogging.exe
+c:\users\kye\documents\visual studio 2015\Projects\WeightLogging\WeightLogging\obj\Debug\WeightLogging.pdb
